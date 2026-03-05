@@ -1,0 +1,2793 @@
+{
+  "summary": {
+    "baseUrl": "https://demo.doclinks.in/",
+    "pagesScraped": 50,
+    "assetsDownloaded": 146,
+    "errors": 0,
+    "duration": "408.07s",
+    "timestamp": "2026-03-05T08:04:26.465Z"
+  },
+  "pages": [
+    {
+      "url": "https://demo.doclinks.in/",
+      "filename": "_index.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 0,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login",
+        "https://demo.doclinks.in/register/patient",
+        "https://demo.doclinks.in/chat",
+        "https://demo.doclinks.in/search?specialty=Cardiology",
+        "https://demo.doclinks.in/search?specialty=Gastrointestinal+Surgery",
+        "https://demo.doclinks.in/search?specialty=Gynecology",
+        "https://demo.doclinks.in/search?specialty=General+Surgery",
+        "https://demo.doclinks.in/search?specialty=Neurosurgery",
+        "https://demo.doclinks.in/search?specialty=Oncology",
+        "https://demo.doclinks.in/search?specialty=Ophthalmology",
+        "https://demo.doclinks.in/search?specialty=Orthopedics",
+        "https://demo.doclinks.in/search?specialty=Plastic+Surgery",
+        "https://demo.doclinks.in/search?specialty=Urology",
+        "https://demo.doclinks.in/articles/the-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771227547320",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771061309396",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771228917981",
+        "https://demo.doclinks.in/articles/patient-centered-care-is-transforming-modern-medicine-1771229198480",
+        "https://demo.doclinks.in/register?role=doctor",
+        "https://demo.doclinks.in/register?role=hospital",
+        "https://demo.doclinks.in/register",
+        "https://demo.doclinks.in/privacy",
+        "https://demo.doclinks.in/terms",
+        "https://demo.doclinks.in/cookies",
+        "https://demo.doclinks.in/hipaa"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fdoctor-hero.png&w=1920&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fdoctor.png&w=96&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fhospital.png&w=96&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Flab.png&w=96&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fai-assitance.png&w=96&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F1a2c969f-cc1a-4488-9679-a1cea76b1552.png&w=128&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Ff8a00023-2a73-4dd0-9358-cab0201945b1.png&w=128&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Faf52480d-e0fe-48ce-a9f5-ba14e26f3496.png&w=128&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F737f1d5c-339d-41d9-af8e-e7ecedb30227.png&w=128&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F5a0cbaa8-7380-44a7-a506-49ad68001d25.png&w=128&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F9ff45d49-47b2-4f0b-8ca4-95da2cc37aea.png&w=128&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Fbbd5129a-4767-4326-9578-da26e5af560f.png&w=128&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Fff75427f-7042-4d22-a778-49d27f1b3632.png&w=128&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Fa6e71d04-eca0-4839-9695-2cdf590b85f2.png&w=128&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F949f849d-4474-4ce2-a201-e9e17aa5beb1.png&w=128&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fdoctor-hero.png&w=640&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fdoctor.png&w=48&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fhospital.png&w=48&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Flab.png&w=48&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fai-assitance.png&w=48&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F1a2c969f-cc1a-4488-9679-a1cea76b1552.png&w=64&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Ff8a00023-2a73-4dd0-9358-cab0201945b1.png&w=64&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Faf52480d-e0fe-48ce-a9f5-ba14e26f3496.png&w=64&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F737f1d5c-339d-41d9-af8e-e7ecedb30227.png&w=64&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F5a0cbaa8-7380-44a7-a506-49ad68001d25.png&w=64&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F9ff45d49-47b2-4f0b-8ca4-95da2cc37aea.png&w=64&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Fbbd5129a-4767-4326-9578-da26e5af560f.png&w=64&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Fff75427f-7042-4d22-a778-49d27f1b3632.png&w=64&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Fa6e71d04-eca0-4839-9695-2cdf590b85f2.png&w=64&q=75",
+          "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F949f849d-4474-4ce2-a201-e9e17aa5beb1.png&w=64&q=75"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:57:47.516Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/doctors",
+      "filename": "_search_doctors.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 1,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors",
+        "https://demo.doclinks.in/register",
+        "https://demo.doclinks.in/dr/dr-miraj-soliya",
+        "https://demo.doclinks.in/dr/drsujal-patel",
+        "https://demo.doclinks.in/articles/the-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771227547320",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771061309396",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771228917981",
+        "https://demo.doclinks.in/health-magazines/1"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:58:04.824Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/hospitals",
+      "filename": "_search_hospitals.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fhospitals",
+        "https://demo.doclinks.in/register",
+        "https://demo.doclinks.in/hospital/hospital-meghani-hospital-mlp0y2nf",
+        "https://demo.doclinks.in/hospital/asia-hospital",
+        "https://demo.doclinks.in/articles/the-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771227547320",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771061309396",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771228917981",
+        "https://demo.doclinks.in/health-magazines/1"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:58:14.454Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/clinics",
+      "filename": "_search_clinics.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 3,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fclinics",
+        "https://demo.doclinks.in/register",
+        "https://demo.doclinks.in/clinic/ramdev-clinic",
+        "https://demo.doclinks.in/articles/the-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771227547320",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771061309396",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771228917981",
+        "https://demo.doclinks.in/health-magazines/1"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:58:23.727Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/labs",
+      "filename": "_search_labs.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 4,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Flabs",
+        "https://demo.doclinks.in/register",
+        "https://demo.doclinks.in/lab/gujarat-labs",
+        "https://demo.doclinks.in/articles/the-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771227547320",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771061309396",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771228917981",
+        "https://demo.doclinks.in/health-magazines/1"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:58:30.760Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/articles",
+      "filename": "_articles.html",
+      "title": "Health Articles | DocLinks - Expert Medical Insights",
+      "depth": 5,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login",
+        "https://demo.doclinks.in/register/patient",
+        "https://demo.doclinks.in/articles/patient-centered-care-is-transforming-modern-medicine-1771229198480",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771228917981",
+        "https://demo.doclinks.in/articles/the-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771227547320",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771061309396",
+        "https://demo.doclinks.in/register",
+        "https://demo.doclinks.in/register?role=doctor",
+        "https://demo.doclinks.in/register?role=hospital",
+        "https://demo.doclinks.in/privacy",
+        "https://demo.doclinks.in/terms",
+        "https://demo.doclinks.in/cookies",
+        "https://demo.doclinks.in/hipaa"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/15e682344a267c35.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/e20c323ed561b24a.js",
+          "https://demo.doclinks.in/_next/static/chunks/aa2c386819a6892b.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:58:39.392Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/magazines",
+      "filename": "_magazines.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 5,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login",
+        "https://demo.doclinks.in/register/patient",
+        "https://demo.doclinks.in/register",
+        "https://demo.doclinks.in/register?role=doctor",
+        "https://demo.doclinks.in/register?role=hospital",
+        "https://demo.doclinks.in/privacy",
+        "https://demo.doclinks.in/terms",
+        "https://demo.doclinks.in/cookies",
+        "https://demo.doclinks.in/hipaa"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/e20c323ed561b24a.js",
+          "https://demo.doclinks.in/_next/static/chunks/aa2c386819a6892b.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:58:47.451Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/about",
+      "filename": "_about.html",
+      "title": "About Us | DocLinks - Your Trusted Healthcare Platform",
+      "depth": 5,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login",
+        "https://demo.doclinks.in/register/patient",
+        "https://demo.doclinks.in/register",
+        "https://demo.doclinks.in/register?role=doctor",
+        "https://demo.doclinks.in/register?role=hospital",
+        "https://demo.doclinks.in/privacy",
+        "https://demo.doclinks.in/terms",
+        "https://demo.doclinks.in/cookies",
+        "https://demo.doclinks.in/hipaa"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:58:54.048Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login?redirect=%2Fsearch%2Flabs",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 5,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:58:59.403Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/register",
+      "filename": "_register.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 5,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/login"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=3840&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fdoctor.png&w=96&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fclinic.png&w=96&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fhospital.png&w=96&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Flab.png&w=96&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=384&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=640&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=750&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=828&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=1080&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=1200&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=1920&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=2048&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fdoctor.png&w=48&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fclinic.png&w=48&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fhospital.png&w=48&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Ficons%2Flab.png&w=48&q=75"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:59:04.333Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/lab/gujarat-labs",
+      "filename": "_lab_gujarat-labs.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 5,
+      "links": [],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/d05f3b9eb22f1949.js",
+          "https://demo.doclinks.in/_next/static/chunks/65fe96ea13fca331.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:59:14.664Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/articles/the-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771227547320",
+      "filename": "_articles_the-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771227547320.html",
+      "title": "The Patient-Centered Care: How Doctors Can Improve Outcomes in 2026",
+      "depth": 5,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login",
+        "https://demo.doclinks.in/register/patient",
+        "https://demo.doclinks.in/hospital/asia-hospital",
+        "https://demo.doclinks.in/search",
+        "https://demo.doclinks.in/register?role=doctor",
+        "https://demo.doclinks.in/register?role=hospital",
+        "https://demo.doclinks.in/register",
+        "https://demo.doclinks.in/privacy",
+        "https://demo.doclinks.in/terms",
+        "https://demo.doclinks.in/cookies",
+        "https://demo.doclinks.in/hipaa"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/15e682344a267c35.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:59:20.845Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771061309396",
+      "filename": "_articles_the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771061309396.html",
+      "title": "The Future of Patient-Centered Care: How Doctors Can Improve Outcomes in 2026",
+      "depth": 5,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login",
+        "https://demo.doclinks.in/register/patient",
+        "https://demo.doclinks.in/dr/dr-miraj-soliya",
+        "https://demo.doclinks.in/articles?search=doctors",
+        "https://demo.doclinks.in/articles?search=healthcare",
+        "https://demo.doclinks.in/articles/patient-centered-care-is-transforming-modern-medicine-1771229198480",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771228917981",
+        "https://demo.doclinks.in/articles/the-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771227547320",
+        "https://demo.doclinks.in/search",
+        "https://demo.doclinks.in/register?role=doctor",
+        "https://demo.doclinks.in/register?role=hospital",
+        "https://demo.doclinks.in/register",
+        "https://demo.doclinks.in/privacy",
+        "https://demo.doclinks.in/terms",
+        "https://demo.doclinks.in/cookies",
+        "https://demo.doclinks.in/hipaa"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/15e682344a267c35.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:59:27.434Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771228917981",
+      "filename": "_articles_the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771228917981.html",
+      "title": "The Future of Patient-Centered Care: How Doctors Can Improve Outcomes in 2026",
+      "depth": 5,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login",
+        "https://demo.doclinks.in/register/patient",
+        "https://demo.doclinks.in/lab/gujarat-labs",
+        "https://demo.doclinks.in/articles?search=lab",
+        "https://demo.doclinks.in/search",
+        "https://demo.doclinks.in/register?role=doctor",
+        "https://demo.doclinks.in/register?role=hospital",
+        "https://demo.doclinks.in/register",
+        "https://demo.doclinks.in/privacy",
+        "https://demo.doclinks.in/terms",
+        "https://demo.doclinks.in/cookies",
+        "https://demo.doclinks.in/hipaa"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/15e682344a267c35.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:59:36.898Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/health-magazines/1",
+      "filename": "_health-magazines_1.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 5,
+      "links": [],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/69af0e9381a10021.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:59:43.267Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fclinics",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 4,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:59:47.495Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/forgot-password",
+      "filename": "_forgot-password.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 5,
+      "links": [],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/69af0e9381a10021.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:59:51.853Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/register/patient",
+      "filename": "_register_patient.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 5,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/terms",
+        "https://demo.doclinks.in/privacy",
+        "https://demo.doclinks.in/login"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/aa2c386819a6892b.js",
+          "https://demo.doclinks.in/_next/static/chunks/e20c323ed561b24a.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=3840&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=3840&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=3840&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=3840&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=3840&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=3840&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=3840&q=75",
+          "https://demo.doclinks.in/logo.png",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=384&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=640&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=750&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=828&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=1080&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=1200&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=1920&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=2048&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=384&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=640&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=750&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=828&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=1080&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=1200&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=1920&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=2048&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=384&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=640&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=750&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=828&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=1080&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=1200&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=1920&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=2048&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=384&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=640&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=750&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=828&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=1080&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=1200&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=1920&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=2048&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=384&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=640&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=750&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=828&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=1080&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=1200&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=1920&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=2048&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=384&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=640&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=750&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=828&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=1080&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=1200&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=1920&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=2048&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=384&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=640&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=750&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=828&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=1080&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=1200&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=1920&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=2048&q=75"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T07:59:57.527Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/clinic/ramdev-clinic",
+      "filename": "_clinic_ramdev-clinic.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 4,
+      "links": [],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/eec3758e31a8f3ed.js",
+          "https://demo.doclinks.in/_next/static/chunks/3c19e33013f10ac3.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:01:04.898Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fhospitals",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 3,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:01:15.456Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/hospital/hospital-meghani-hospital-mlp0y2nf",
+      "filename": "_hospital_hospital-meghani-hospital-mlp0y2nf.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 3,
+      "links": [],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/39ff5226dec23f83.js",
+          "https://demo.doclinks.in/_next/static/chunks/d33997ee00ce1014.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:01:28.821Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/hospital/asia-hospital",
+      "filename": "_hospital_asia-hospital.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 3,
+      "links": [
+        "https://demo.doclinks.in/"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/39ff5226dec23f83.js",
+          "https://demo.doclinks.in/_next/static/chunks/d33997ee00ce1014.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/_next/image?url=%2Flogo.png&w=384&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogo.png&w=256&q=75",
+          "https://demo.doclinks.in/_next/image?url=%2Flogo.png&w=128&q=75"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:01:33.175Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:01:39.572Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/dr/dr-miraj-soliya",
+      "filename": "_dr_dr-miraj-soliya.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/2f18dfe63ef3cdf2.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a936628665aa480.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:01:45.902Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/dr/drsujal-patel",
+      "filename": "_dr_drsujal-patel.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/2f18dfe63ef3cdf2.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a936628665aa480.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:01:49.215Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 1,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:01:53.757Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/chat",
+      "filename": "_chat.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 1,
+      "links": [],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/69af0e9381a10021.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:01:58.255Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search?specialty=Cardiology",
+      "filename": "_search.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 1,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch",
+        "https://demo.doclinks.in/register",
+        "https://demo.doclinks.in/search/doctors?specialty=Cardiology",
+        "https://demo.doclinks.in/search/hospitals?specialty=Cardiology",
+        "https://demo.doclinks.in/search/clinics?specialty=Cardiology",
+        "https://demo.doclinks.in/search/labs?specialty=Cardiology",
+        "https://demo.doclinks.in/search/doctors?specialty=General+Physician",
+        "https://demo.doclinks.in/search/doctors?specialty=Cardiologist",
+        "https://demo.doclinks.in/search/doctors?specialty=Dermatologist",
+        "https://demo.doclinks.in/search/doctors?specialty=Pediatrician",
+        "https://demo.doclinks.in/search/doctors?specialty=Orthopedic",
+        "https://demo.doclinks.in/search/doctors?specialty=Gynecologist",
+        "https://demo.doclinks.in/search/doctors?specialty=ENT+Specialist",
+        "https://demo.doclinks.in/search/doctors?specialty=Neurologist",
+        "https://demo.doclinks.in/search/doctors?specialty=Dentist",
+        "https://demo.doclinks.in/search/doctors?specialty=Ophthalmologist",
+        "https://demo.doclinks.in/contact",
+        "https://demo.doclinks.in/privacy",
+        "https://demo.doclinks.in/terms"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/c66eab77b557c8fa.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/e20c323ed561b24a.js",
+          "https://demo.doclinks.in/_next/static/chunks/aa2c386819a6892b.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:02:05.688Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login?redirect=%2Fsearch",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:02:11.510Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/doctors?specialty=Cardiology",
+      "filename": "_search_doctors.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DCardiology",
+        "https://demo.doclinks.in/register",
+        "https://demo.doclinks.in/articles/the-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771227547320",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771061309396",
+        "https://demo.doclinks.in/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771228917981",
+        "https://demo.doclinks.in/health-magazines/1"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:02:17.915Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DCardiology",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 3,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:02:24.106Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/hospitals?specialty=Cardiology",
+      "filename": "_search_hospitals.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fhospitals",
+        "https://demo.doclinks.in/register"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:02:30.033Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/clinics?specialty=Cardiology",
+      "filename": "_search_clinics.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fclinics",
+        "https://demo.doclinks.in/register"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:02:36.007Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/labs?specialty=Cardiology",
+      "filename": "_search_labs.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Flabs",
+        "https://demo.doclinks.in/register"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:02:41.952Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/doctors?specialty=General+Physician",
+      "filename": "_search_doctors.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DGeneral%2BPhysician",
+        "https://demo.doclinks.in/register"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:02:48.037Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DGeneral%2BPhysician",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 3,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:02:53.304Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/doctors?specialty=Cardiologist",
+      "filename": "_search_doctors.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DCardiologist",
+        "https://demo.doclinks.in/register"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:03:04.447Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DCardiologist",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 3,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:03:13.429Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/doctors?specialty=Dermatologist",
+      "filename": "_search_doctors.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DDermatologist",
+        "https://demo.doclinks.in/register"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:03:20.369Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DDermatologist",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 3,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:03:26.637Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/doctors?specialty=Pediatrician",
+      "filename": "_search_doctors.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DPediatrician",
+        "https://demo.doclinks.in/register"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:03:32.530Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DPediatrician",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 3,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:03:38.764Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/doctors?specialty=Orthopedic",
+      "filename": "_search_doctors.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DOrthopedic",
+        "https://demo.doclinks.in/register"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:03:44.560Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DOrthopedic",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 3,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:03:50.358Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/doctors?specialty=Gynecologist",
+      "filename": "_search_doctors.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DGynecologist",
+        "https://demo.doclinks.in/register"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:03:55.849Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DGynecologist",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 3,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:04:01.998Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/doctors?specialty=ENT+Specialist",
+      "filename": "_search_doctors.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DENT%2BSpecialist",
+        "https://demo.doclinks.in/register"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:04:07.390Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DENT%2BSpecialist",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 3,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:04:13.146Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/search/doctors?specialty=Neurologist",
+      "filename": "_search_doctors.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 2,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/search/doctors",
+        "https://demo.doclinks.in/search/hospitals",
+        "https://demo.doclinks.in/search/clinics",
+        "https://demo.doclinks.in/search/labs",
+        "https://demo.doclinks.in/articles",
+        "https://demo.doclinks.in/magazines",
+        "https://demo.doclinks.in/about",
+        "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DNeurologist",
+        "https://demo.doclinks.in/register"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+          "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+          "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+          "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+          "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+          "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+          "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:04:18.753Z"
+    },
+    {
+      "url": "https://demo.doclinks.in/login?redirect=%2Fsearch%2Fdoctors%3Fspecialty%3DNeurologist",
+      "filename": "_login.html",
+      "title": "DocLinks - Your Health Journey Starts Here",
+      "depth": 3,
+      "links": [
+        "https://demo.doclinks.in/",
+        "https://demo.doclinks.in/forgot-password",
+        "https://demo.doclinks.in/register/patient"
+      ],
+      "assets": {
+        "css": [
+          "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css"
+        ],
+        "js": [
+          "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+          "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+          "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+          "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+          "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+          "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+          "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+          "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+          "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+          "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+          "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+          "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+          "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+          "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+          "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js"
+        ],
+        "images": [
+          "https://demo.doclinks.in/logo.png"
+        ],
+        "fonts": [],
+        "videos": [],
+        "audios": [],
+        "documents": [],
+        "other": []
+      },
+      "timestamp": "2026-03-05T08:04:24.254Z"
+    }
+  ],
+  "errors": [],
+  "assets": [
+    "https://demo.doclinks.in/_next/static/chunks/24ecda059cc26723.js",
+    "https://demo.doclinks.in/_next/static/chunks/4c6817c6b1f43e50.css",
+    "https://demo.doclinks.in/_next/static/chunks/69be39811437728d.js",
+    "https://demo.doclinks.in/_next/static/chunks/turbopack-42d9a190b606fc09.js",
+    "https://demo.doclinks.in/_next/static/chunks/7d6514a90169e63d.js",
+    "https://demo.doclinks.in/_next/static/chunks/82abf2d65f5428ae.js",
+    "https://demo.doclinks.in/_next/static/chunks/ff1a16fafef87110.js",
+    "https://demo.doclinks.in/_next/static/chunks/b87de6988a468ba8.js",
+    "https://demo.doclinks.in/_next/static/chunks/312a1c22de2255a0.js",
+    "https://demo.doclinks.in/_next/static/chunks/c5a69d6b3d766cdf.js",
+    "https://demo.doclinks.in/_next/static/chunks/d2be314c3ece3fbe.js",
+    "https://demo.doclinks.in/_next/static/chunks/d9748923ad718515.js",
+    "https://demo.doclinks.in/_next/static/chunks/388f08bbd7dc1d38.js",
+    "https://demo.doclinks.in/_next/static/chunks/0f68ba641d4c118f.js",
+    "https://demo.doclinks.in/_next/static/chunks/a6dad97d9634a72d.js",
+    "https://demo.doclinks.in/_next/static/chunks/38d86419e112aa38.js",
+    "https://demo.doclinks.in/_next/static/chunks/e46edd6a61989016.js",
+    "https://demo.doclinks.in/_next/static/chunks/fd70c35d636eb226.js",
+    "https://demo.doclinks.in/_next/static/chunks/df0a7c35d776b4a0.js",
+    "https://demo.doclinks.in/_next/static/chunks/0a048ee216a19e91.js",
+    "https://demo.doclinks.in/_next/static/chunks/36a367b149076a10.js",
+    "https://demo.doclinks.in/_next/static/chunks/7a0a31b0bb154d05.js",
+    "https://demo.doclinks.in/_next/static/chunks/51ff87eb982d302a.js",
+    "https://demo.doclinks.in/_next/static/chunks/63ee25eeaaf458a4.js",
+    "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fdoctor.png&w=96&q=75",
+    "https://demo.doclinks.in/logo.png",
+    "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fdoctor-hero.png&w=1920&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fai-assitance.png&w=96&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fhospital.png&w=96&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Ficons%2Flab.png&w=96&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Ff8a00023-2a73-4dd0-9358-cab0201945b1.png&w=128&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F1a2c969f-cc1a-4488-9679-a1cea76b1552.png&w=128&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Faf52480d-e0fe-48ce-a9f5-ba14e26f3496.png&w=128&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F9ff45d49-47b2-4f0b-8ca4-95da2cc37aea.png&w=128&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F5a0cbaa8-7380-44a7-a506-49ad68001d25.png&w=128&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F737f1d5c-339d-41d9-af8e-e7ecedb30227.png&w=128&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Fbbd5129a-4767-4326-9578-da26e5af560f.png&w=128&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Fff75427f-7042-4d22-a778-49d27f1b3632.png&w=128&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Fa6e71d04-eca0-4839-9695-2cdf590b85f2.png&w=128&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fdoctor.png&w=48&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F949f849d-4474-4ce2-a201-e9e17aa5beb1.png&w=128&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fdoctor-hero.png&w=640&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Ficons%2Flab.png&w=48&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fai-assitance.png&w=48&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fhospital.png&w=48&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Faf52480d-e0fe-48ce-a9f5-ba14e26f3496.png&w=64&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F1a2c969f-cc1a-4488-9679-a1cea76b1552.png&w=64&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Ff8a00023-2a73-4dd0-9358-cab0201945b1.png&w=64&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F5a0cbaa8-7380-44a7-a506-49ad68001d25.png&w=64&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F737f1d5c-339d-41d9-af8e-e7ecedb30227.png&w=64&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F9ff45d49-47b2-4f0b-8ca4-95da2cc37aea.png&w=64&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Fa6e71d04-eca0-4839-9695-2cdf590b85f2.png&w=64&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Fff75427f-7042-4d22-a778-49d27f1b3632.png&w=64&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2Fbbd5129a-4767-4326-9578-da26e5af560f.png&w=64&q=75",
+    "https://demo.doclinks.in/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdoclinks%2Fmaster%2Fspecialities%2F949f849d-4474-4ce2-a201-e9e17aa5beb1.png&w=64&q=75",
+    "https://demo.doclinks.in/_next/static/chunks/94d90b25a11facc3.js",
+    "https://demo.doclinks.in/_next/static/chunks/15e682344a267c35.js",
+    "https://demo.doclinks.in/_next/static/chunks/e20c323ed561b24a.js",
+    "https://demo.doclinks.in/_next/static/chunks/aa2c386819a6892b.js",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=3840&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fclinic.png&w=96&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=640&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=384&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=828&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=750&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=1080&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=1200&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=2048&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2FSignup.png&w=1920&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Ficons%2Fclinic.png&w=48&q=75",
+    "https://demo.doclinks.in/_next/static/chunks/d05f3b9eb22f1949.js",
+    "https://demo.doclinks.in/_next/static/chunks/65fe96ea13fca331.js",
+    "https://demo.doclinks.in/_next/static/chunks/69af0e9381a10021.js",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=3840&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=3840&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=3840&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=3840&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=3840&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=3840&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=384&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=3840&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=640&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=750&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=828&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=1080&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=1200&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=1920&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=384&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=640&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin1.jpg&w=2048&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=750&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=828&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=1080&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=1200&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=1920&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin2.jpg&w=2048&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=384&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=640&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=750&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=828&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=1080&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=1200&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=384&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=1920&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin3.jpg&w=2048&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=640&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=750&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=828&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=1080&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=1200&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=1920&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=384&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=640&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin4.jpg&w=2048&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=750&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=828&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=1080&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=1200&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=2048&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin5.jpg&w=1920&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=384&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=640&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=750&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=828&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=1080&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=1200&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=384&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=2048&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin6.jpg&w=1920&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=640&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=750&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=828&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=1080&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=1200&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=1920&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogin%2Flogin7.jpg&w=2048&q=75",
+    "https://demo.doclinks.in/_next/static/chunks/eec3758e31a8f3ed.js",
+    "https://demo.doclinks.in/_next/static/chunks/3c19e33013f10ac3.js",
+    "https://demo.doclinks.in/_next/static/chunks/d33997ee00ce1014.js",
+    "https://demo.doclinks.in/_next/static/chunks/39ff5226dec23f83.js",
+    "https://demo.doclinks.in/_next/image?url=%2Flogo.png&w=384&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogo.png&w=256&q=75",
+    "https://demo.doclinks.in/_next/image?url=%2Flogo.png&w=128&q=75",
+    "https://demo.doclinks.in/_next/static/chunks/0a936628665aa480.js",
+    "https://demo.doclinks.in/_next/static/chunks/2f18dfe63ef3cdf2.js",
+    "https://demo.doclinks.in/_next/static/chunks/c66eab77b557c8fa.js"
+  ]
+}
