@@ -1,0 +1,109 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/_next/image",
+      "destination": "https://demo.doclinks.in/_next/image"
+    },
+    {
+      "source": "/_next/static/:path*",
+      "destination": "https://demo.doclinks.in/_next/static/:path*"
+    },
+    {
+      "source": "/",
+      "destination": "/_index.html"
+    },
+    {
+      "source": "/search/doctors",
+      "destination": "/_search_doctors.html"
+    },
+    {
+      "source": "/search/hospitals",
+      "destination": "/_search_hospitals.html"
+    },
+    {
+      "source": "/search/clinics",
+      "destination": "/_search_clinics.html"
+    },
+    {
+      "source": "/search/labs",
+      "destination": "/_search_labs.html"
+    },
+    {
+      "source": "/articles",
+      "destination": "/_articles.html"
+    },
+    {
+      "source": "/magazines",
+      "destination": "/_magazines.html"
+    },
+    {
+      "source": "/about",
+      "destination": "/_about.html"
+    },
+    {
+      "source": "/login",
+      "destination": "/_login.html"
+    },
+    {
+      "source": "/register",
+      "destination": "/_register.html"
+    },
+    {
+      "source": "/lab/gujarat-labs",
+      "destination": "/_lab_gujarat-labs.html"
+    },
+    {
+      "source": "/articles/the-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771227547320",
+      "destination": "/_articles_the-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771227547320.html"
+    },
+    {
+      "source": "/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771061309396",
+      "destination": "/_articles_the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771061309396.html"
+    },
+    {
+      "source": "/articles/the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771228917981",
+      "destination": "/_articles_the-future-of-patient-centered-care-how-doctors-can-improve-outcomes-in-2026-1771228917981.html"
+    },
+    {
+      "source": "/health-magazines/1",
+      "destination": "/_health-magazines_1.html"
+    },
+    {
+      "source": "/forgot-password",
+      "destination": "/_forgot-password.html"
+    },
+    {
+      "source": "/register/patient",
+      "destination": "/_register_patient.html"
+    },
+    {
+      "source": "/clinic/ramdev-clinic",
+      "destination": "/_clinic_ramdev-clinic.html"
+    },
+    {
+      "source": "/hospital/hospital-meghani-hospital-mlp0y2nf",
+      "destination": "/_hospital_hospital-meghani-hospital-mlp0y2nf.html"
+    },
+    {
+      "source": "/hospital/asia-hospital",
+      "destination": "/_hospital_asia-hospital.html"
+    },
+    {
+      "source": "/dr/dr-miraj-soliya",
+      "destination": "/_dr_dr-miraj-soliya.html"
+    },
+    {
+      "source": "/dr/drsujal-patel",
+      "destination": "/_dr_drsujal-patel.html"
+    },
+    {
+      "source": "/chat",
+      "destination": "/_chat.html"
+    },
+    {
+      "source": "/search",
+      "destination": "/_search.html"
+    }
+  ]
+}
