@@ -2,6 +2,10 @@
   "version": 2,
   "rewrites": [
     {
+      "source": "/logo.png",
+      "destination": "/assets/images/logo.png"
+    },
+    {
       "source": "/_next/image",
       "destination": "https://demo.doclinks.in/_next/image"
     },
@@ -104,6 +108,26 @@
     {
       "source": "/search",
       "destination": "/_search.html"
+    },
+    {
+      "source": "/favicon.ico",
+      "destination": "https://demo.doclinks.in/favicon.ico"
+    },
+    {
+      "source": "/favicon-32x32.png",
+      "destination": "https://demo.doclinks.in/favicon-32x32.png"
+    },
+    {
+      "source": "/favicon-16x16.png",
+      "destination": "https://demo.doclinks.in/favicon-16x16.png"
+    },
+    {
+      "source": "/apple-touch-icon.png",
+      "destination": "https://demo.doclinks.in/apple-touch-icon.png"
+    },
+    {
+      "source": "/site.webmanifest",
+      "destination": "https://demo.doclinks.in/site.webmanifest"
     }
   ]
 }
